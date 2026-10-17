@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/huggingface/smolagents/commit/96f33faaf028479119ec8d34507b47694cf14e34",
       "git:hexsha": "96f33faaf028479119ec8d34507b47694cf14e34",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T01:57:50.409671+00:00"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/smolagents/commit/3c52977e7f929f9388e7f89990152a81949dcf3d",
